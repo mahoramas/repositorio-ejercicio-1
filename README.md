@@ -1,7 +1,7 @@
 # Repositorio Ejercicio 1
 Este repositorio contiene los pasos básicos para trabajar con Git y GitHub.
 
-# Paso 3: Clonar el repositorio local
+## Paso 3: Clonar el repositorio local
 Clono el repositorio
 ```code
 bae2@jpexposito-VirtualBox:~$ git clone https://github.com/mahoramas/repositorio-ejercicio-1.git
@@ -12,9 +12,14 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Recibiendo objetos: 100% (3/3), listo.
 ```
 
-# Paso 4: Modificar el archivo README.md
+## Paso 4: Modificar el archivo README.md
 Abro el archivo README.MD
 ```code
 bae2@jpexposito-VirtualBox:~$ cd repositorio-ejercicio-1/
 bae2@jpexposito-VirtualBox:~/repositorio-ejercicio-1$ code
 ```
+## Paso 5: Editar el README.md desde GitHub
+Abro mi repositorio en Github y edito desde la web:
+```code
+Esta línea fue añadida directamente desde la interfaz web de GitHub.
+``
