@@ -40,3 +40,7 @@ Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
 To https://github.com/mahoramas/repositorio-ejercicio-1.git
   4651f81..4eb55f3  main -> main
 ```
+# Paso 5
+Abre tu repositorio en GitHub desde el navegador y edita el archivo README.md desde la interfaz web:
+
+Esta línea fue añadida directamente desde la interfaz web de GitHub.
